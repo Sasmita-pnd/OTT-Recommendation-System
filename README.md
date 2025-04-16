@@ -14,7 +14,7 @@ To Create a Recommender System to show personalized movie recommendations based 
 
  ### Techniques Used
 
- #### exploratory data analysis (EDA)
+ #### Exploratory Data Analysis (EDA)
  
  #### Data Wrangling
  Feature Engineering, Null values Treatment, Duplicate Records Treatment
